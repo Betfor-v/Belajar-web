@@ -2,8 +2,10 @@
 - java script
 =es6
 =framework javascript
- =angular
- =react
+  =vue
+  =reacjs
 -struktur dta dasar
--laravel
+=larafel
+-html
 -css
+-pyton
