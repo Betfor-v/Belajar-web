@@ -2,5 +2,6 @@
 - java script
 =es6
 =framework javascript
+-struktur dta dasar
 -html
 -css
