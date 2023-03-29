@@ -2,6 +2,10 @@
 - java script
 =es6
 =framework javascript
+  =vue
+  =reacjs
 -struktur dta dasar
+=larafel
 -html
 -css
+-pyton
